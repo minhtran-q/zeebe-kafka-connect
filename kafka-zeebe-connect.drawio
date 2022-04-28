@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T10:10:34.107Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="bPE37OD_qlaVKqQh2K3A" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-28T10:10:39.132Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="ONQOgCGsWuiAiy-Y1uLX" version="17.4.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Cleanup the obsolete workers">
     <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="hyJ16mOZksNo0NBQhLww-0" value="CleanupScheduler" style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="110" y="86" width="200" height="200" as="geometry" />
+          <mxGeometry x="110" y="86" width="200" height="515" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
