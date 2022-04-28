@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T10:37:02.899Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="K0bOFZ0tSDI1BvlQFwjt" version="17.4.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-28T10:37:12.293Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="VXmOKg3pBJAb34gdfgdo" version="17.4.6" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Cleanup the obsolete workers">
     <mxGraphModel dx="1038" dy="579" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -18,14 +18,23 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="p4v5cMf_VU6oif17ImsU-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p4v5cMf_VU6oif17ImsU-7" target="p4v5cMf_VU6oif17ImsU-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="p4v5cMf_VU6oif17ImsU-7" value="&lt;span&gt;Restore job instances&lt;/span&gt;" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
           <mxGeometry x="180" y="150" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p4v5cMf_VU6oif17ImsU-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p4v5cMf_VU6oif17ImsU-8" target="p4v5cMf_VU6oif17ImsU-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p4v5cMf_VU6oif17ImsU-8" value="&lt;span&gt;Restore deployments&lt;/span&gt;" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
           <mxGeometry x="370" y="150" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p4v5cMf_VU6oif17ImsU-10" value="" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;strokeWidth=5;perimeter=ellipsePerimeter;" vertex="1" parent="1">
           <mxGeometry x="600" y="156.88" width="46.25" height="46.25" as="geometry" />
+        </mxCell>
+        <mxCell id="p4v5cMf_VU6oif17ImsU-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p4v5cMf_VU6oif17ImsU-13" target="p4v5cMf_VU6oif17ImsU-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p4v5cMf_VU6oif17ImsU-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="60" y="155" width="50" height="50" as="geometry" />
