@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-04T04:19:39.603Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="rFA055YL-4r9Zhm7moYA" version="17.4.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-04T04:21:27.164Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="HD5y2xIlJrjdb6Gn79To" version="17.4.6" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Cleanup the obsolete workers">
     <mxGraphModel dx="1038" dy="579" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,6 +12,9 @@
         </mxCell>
         <mxCell id="XxUo1kwyzoJHX5YxzmVL-0" value="start the scheduler" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hyJ16mOZksNo0NBQhLww-0">
           <mxGeometry x="65.5" y="168" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XxUo1kwyzoJHX5YxzmVL-1" value="DeploymentManager" style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="331" y="71" width="251" height="639" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
