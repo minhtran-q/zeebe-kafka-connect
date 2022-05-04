@@ -1,10 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-05-04T05:32:18.176Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="OnXJZedafSiVi3wzRLgR" version="17.4.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-04T05:33:34.045Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="9IdUOwinvdOu2TG_RyVe" version="17.4.6" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Cleanup the obsolete workers">
     <mxGraphModel dx="1038" dy="579" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="XxUo1kwyzoJHX5YxzmVL-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XxUo1kwyzoJHX5YxzmVL-0" target="XxUo1kwyzoJHX5YxzmVL-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XxUo1kwyzoJHX5YxzmVL-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XxUo1kwyzoJHX5YxzmVL-0" target="XxUo1kwyzoJHX5YxzmVL-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XxUo1kwyzoJHX5YxzmVL-0" value="start the scheduler" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -76,6 +79,9 @@
         </mxCell>
         <mxCell id="XxUo1kwyzoJHX5YxzmVL-27" value="&lt;font style=&quot;font-size: 12px&quot;&gt;clean deprecated consumers&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="272" y="822" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XxUo1kwyzoJHX5YxzmVL-33" value="&lt;i&gt;cron once per day&lt;/i&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="130" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
