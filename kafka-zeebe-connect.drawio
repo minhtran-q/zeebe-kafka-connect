@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-04T07:45:27.352Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="OnslUxj6jlXM-NK_w52L" version="17.4.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-04T07:45:43.369Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="caIZBQZqm8NroNGdLFOv" version="17.4.6" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Cleanup the obsolete workers">
     <mxGraphModel dx="1038" dy="579" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -108,8 +108,10 @@
         <mxCell id="9h7A-lmrGmeoQCmZBf84-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="p4v5cMf_VU6oif17ImsU-8" target="9h7A-lmrGmeoQCmZBf84-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9h7A-lmrGmeoQCmZBf84-6" value="publish event" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;dashed=1;" edge="1" parent="1" source="p4v5cMf_VU6oif17ImsU-8" target="9h7A-lmrGmeoQCmZBf84-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="9h7A-lmrGmeoQCmZBf84-6" value="&lt;font style=&quot;font-size: 12px&quot;&gt;publish event&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;dashed=1;" edge="1" parent="1" source="p4v5cMf_VU6oif17ImsU-8" target="9h7A-lmrGmeoQCmZBf84-4">
+          <mxGeometry x="-0.0909" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="p4v5cMf_VU6oif17ImsU-8" value="&lt;span&gt;Restore deployments&lt;/span&gt;" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start" parent="1" vertex="1">
           <mxGeometry x="370" y="150" width="140" height="60" as="geometry" />
